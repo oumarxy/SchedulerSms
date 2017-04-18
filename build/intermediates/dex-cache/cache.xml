@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.github.amlcurran.showcaseview\library\5.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b6da39caedecf838342b319d19b20e0e178220df">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.github.amlcurran.showcaseview-library-5.3.0_a81eb8838fed02b2ce4ee720cbe2e7add408021f.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_c7b9d0d95a098f9c134b71a8a662ea868aa1b442.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_30dfa30051d33bbb2a489b192d5344bd2c8a78ab.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_d636403ff924a0fa9c46b3a621027c061c01b3b0.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_5d799dba7da49f7a82a7493ded31b27fa982da14.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\me.zhanghai.android.materialedittext\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a2657200d76d4e8d27a6d5120b519d2941767aab">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialedittext-library-1.0.1_59c2d0491b7b4736aa0fe7bf9685482a7c8a28e6.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_e847ee7b4b29e443cb358d21d54eb485e7f63edf.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.klinkerapps\android-chips\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f0820209fcf4b204b40a29c9074c55b33921ab9">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.klinkerapps-android-chips-1.0.1_39e999d1fabe4b170971b4545be95eb964222c14.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\co.dift.ui.swipetoaction\library\1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="91580cd057a26c49c7f8a2abf985bd931bdc446d">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\co.dift.ui.swipetoaction-library-1.1_8ff7c13cbc611ae65d54ebabc5b5eda1e3a33be6.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.daimajia.easing-library-1.0.1_a17912d67f8e60825239500c71af9c16b1603a2b.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.github.flavienlaurent.datetimepicker\library\0.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2fc859b7abb78d29169f6a582b45cbe1f3f1a4cc">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.github.flavienlaurent.datetimepicker-library-0.0.2_26ae42e61a6759b5cf4c53b0ed364a552575765b.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.kyleszombathy\lib\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01964f73989f00ca0860b888a9d9b400125f8eab">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.kyleszombathy-lib-1.0_d79690ff9c17978abfab01f791e2ecb7849eb9f4.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_dff124f8fa04a866149615f6c0842b6114a8d1d4.jar" />
+    </item>
+    <item
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_2d8b48096e1da4c96bb56725af3580061fb9bde9.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0b148ce9bfaa624702b7bd0a099bfdf44b46c936">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\jp.wasabeef-recyclerview-animators-2.1.0_c89dea3428c05f1f3c80aadce0be5ecf894a05c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ngocs\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\library-2.4.0_59eee96bc1feb6f1ea3d72cd4059eac0af03f73f.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_e4b23abc9bfb3932d27d58f3e1cb561206dcbffb.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_0c914986bca9e2b2b1da6fe8a5cb4385fc9358dd.jar" />
+    </item>
+    <item
+        jar="F:\SchedulerSms\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="F:\SchedulerSms\app\build\intermediates\pre-dexed\debug\com.daimajia.androidanimations-library-1.1.3_c604200ac1db5d86ef44321f539c565f60e6dcc0.jar" />
+    </item>
+
+</items>

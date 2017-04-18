@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Hẹn Giờ Gửi Tin Nhắn</string>
+    <string name="action_settings">Cài Đặt</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_add_message">Thêm Tin Nhắn</string>
+    <!--Main page content-->
+    <string name="message_content"> Nội Dung</string>
+    <string name="phone_numbers">Sdt</string>
+    <string name="set_date_time">Cài Đặt Ngày/Giờ</string>
+    <string name="subtitle_content">Tin Nhắn</string>
+    <string name="today">Hôm nay</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="next">Next</string>
+    <string name="pick_date">Chọn Ngày</string>
+    <!--For time spinner-->
+    <string name="morning"  >Buổi Sáng   - </string>
+    <string name="afternoon">Buổi Chiều - </string>
+    <string name="evening"  >Buổi Tối   - </string>
+    <string name="night"    >Đêm Khuya     - </string>
+    <string name="pick_time">Chọn Giờ…</string>
+    <!--Error Messages-->
+    <string name="error_recipient">Bạn Phải Nhập Số Điện Thoại</string>
+    <string name="error_message_content">Bạn Phải Nhập Nội Dung Tin Nhắn</string>
+    <string name="invalid_entry">One or more entries are invalid</string>
+    <!--Other-->
+
+    <!--tooltips-->
+    <string name="success">Lưu</string>
+    <!--Days of week-->
+    <string name="sunday">Chủ Nhật</string>
+    <string name="monday">Thứ Hai</string>
+    <string name="tuesday">Thứ Ba</string>
+    <string name="wednesday">Thứ Tư</string>
+    <string name="thursday">Thứ Năm</string>
+    <string name="friday">Thứ Sáu</string>
+    <string name="saturday">Thứ Bảy</string>
+    <!--Notifications-->
+    <string name="testing">testing testing 123</string>
+    <string name="message_success">Tin Nhắn Gửi Thành Công</string>
+    <string name="archived">Archived</string>
+
+</resources>
